@@ -24,5 +24,5 @@ A multi-engine torrent search application with GUI, developed with Python and Tk
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/torrent-finder.git
+git clone https://github.com/amilaanjanab/torrent-finder.git
 cd torrent-finder
