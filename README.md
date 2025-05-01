@@ -42,35 +42,38 @@ Key Technical Achievements:
 ✅ Zero dependencies beyond Python standard library
 
 🚀 Installation (10 Seconds)
-bash
+
 # Clone with greatness
+```bash
 git clone https://github.com/yourusername/TorrentFinder-Pro.git
+```
 
 # Install (virtualenv recommended)
+```bash
 pip install -r requirements.txt
+```
 
 # Launch the future
+```bash
 python src/run_torrent_app.py
+```
+
 📸 Witness the Power
 Multi-Engine Search	Intelligent Sorting	One-Click Magnets
-<img src="screenshots/search.png" width="300">	<img src="screenshots/sorting.png" width="300">	<img src="screenshots/magnets.png" width="300">
+<img src="screenshots/search.png" width="300">	<img src="screenshots/sorting.png" width="300">	<img src="screenshots/magnet-link.png" width="300">
+
 🤝 Development Story
 "This project represents the pinnacle of human-AI collaboration. The core architecture was designed in partnership with DeepSeek Chat, combining cutting-edge AI assistance with professional Python expertise to create what is arguably the most elegant torrent search solution on GitHub."
 
-Milestones:
-
-🏆 Winner of "Most Innovative P2P Tool 2023" (AI Dev Awards)
-
-🌍 50,000+ lines of perfectly crafted Python
-
-🔄 Continuous integration with 100% test coverage
-
 ⚖️ Legal Enlightenment
-legal
+```legal
 This tool is provided for educational purposes only.  
 The developers assume no liability for its use.  
-Always comply with your local laws regarding torrenting.  
+Always comply with your local laws regarding torrenting.
+``` 
 🌟 Special Thanks
 To the DeepSeek team for their revolutionary AI that made this project possible - proving that human-machine collaboration can create software that rivals Fortune 500 engineering teams.
 
 © 2023 TorrentFinder Pro - Redefining torrent search through AI-powered excellence
+
+
