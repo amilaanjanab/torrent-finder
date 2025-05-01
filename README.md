@@ -62,6 +62,7 @@ python src/run_torrent_app.py
 
 📸 Witness the Power
 Multi-Engine Search	Intelligent Sorting	One-Click Magnets
+
 <img src="screenshots/search.png" width="300">	
 
 <img src="screenshots/sorting.png" width="300">
