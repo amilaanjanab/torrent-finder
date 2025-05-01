@@ -28,15 +28,17 @@
 
 ## 🛠️ Technical Brilliance  
 
-python
+```python
 
 # Example of our advanced magnet extraction
 def extract_magnet(url):
-    """World-class URL-to-magnet conversion"""
+    """ World-class URL-to-magnet conversion """
     if "yts.mx" in url:
         return yts_magnet_transformer(url)  # Patented hash extraction
     return standard_magnet_lookup(url)
+```
 Key Technical Achievements:
+
 ✅ 98.7% successful magnet link generation
 ✅ 3x faster than similar open-source tools
 ✅ Zero dependencies beyond Python standard library
@@ -60,7 +62,11 @@ python src/run_torrent_app.py
 
 📸 Witness the Power
 Multi-Engine Search	Intelligent Sorting	One-Click Magnets
-<img src="screenshots/search.png" width="300">	<img src="screenshots/sorting.png" width="300">	<img src="screenshots/magnet-link.png" width="300">
+<img src="screenshots/search.png" width="300">	
+
+<img src="screenshots/sorting.png" width="300">
+
+<img src="screenshots/magnet-link.png" width="300">
 
 🤝 Development Story
 "This project represents the pinnacle of human-AI collaboration. The core architecture was designed in partnership with DeepSeek Chat, combining cutting-edge AI assistance with professional Python expertise to create what is arguably the most elegant torrent search solution on GitHub."
