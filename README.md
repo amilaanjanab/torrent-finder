@@ -6,7 +6,7 @@
 [![DeepSeek](https://img.shields.io/badge/Developed%20with-DeepSeek%20AI-1e40af)](https://chat.deepseek.com)
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="800" alt="TorrentFinder Pro in Action">
+  <img src="screenshots/main-ui.png" width="800" alt="TorrentFinder Pro in Action">
 </p>
 
 ## 🔥 Features That Set Us Apart  
