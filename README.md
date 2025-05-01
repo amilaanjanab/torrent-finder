@@ -40,7 +40,9 @@ def extract_magnet(url):
 Key Technical Achievements:
 
 ✅ 98.7% successful magnet link generation
+
 ✅ 3x faster than similar open-source tools
+
 ✅ Zero dependencies beyond Python standard library
 
 🚀 Installation (10 Seconds)
