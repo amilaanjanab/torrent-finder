@@ -28,7 +28,8 @@
 
 ## 🛠️ Technical Brilliance  
 
->python
+python
+
 # Example of our advanced magnet extraction
 def extract_magnet(url):
     """World-class URL-to-magnet conversion"""
